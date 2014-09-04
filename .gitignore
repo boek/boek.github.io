@@ -1,1 +1,12 @@
 _site/
+
+
+# Gems
+bundler/
+cache/
+gems/
+specifications/
+.bundle/
+/vendor/bundle
+/vendor/gems
+/bundle
