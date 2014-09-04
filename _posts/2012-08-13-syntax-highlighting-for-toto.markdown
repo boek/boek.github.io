@@ -5,16 +5,17 @@ date:   2012-08-13 14:44:09
 categories:
 ---
 
-oto is great, but with a development oriented blog I needed a clean way to display code to my readers.
+toto is great, but with a development oriented blog I needed a clean way to display code to my readers.
 So first thing on my todo list was to add Code block support with Syntax highlighting to Toto.
 
 to turn this:
+<pre>
     def do_something(test)
       test.each do |t|
         puts t
       end
     end
-
+</pre>
 into this:
 
 {% highlight ruby %}
