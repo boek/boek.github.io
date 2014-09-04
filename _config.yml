@@ -2,10 +2,11 @@
 title: Jeff Boek
 email: jeff@jeffboek.com
 description: "stuff and stuff"
-baseurl: "http://jeffboek.com"
+baseurl: ""
 url: "http://jeffboek.com"
 twitter_username: jeffboek
 github_username:  boek
+exclude: [vendor]
 
 # Build settings
 markdown: kramdown
