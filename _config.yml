@@ -6,8 +6,9 @@ baseurl: ""
 url: "http://jeffboek.com"
 twitter_username: jeffboek
 github_username:  boek
-exclude: [vendor]
+exclude: [vendor, README.md, CNAME, Gemfile]
 
 # Build settings
-markdown: kramdown
-permalink: pretty
+markdown: redcarpet
+highlighter: pygments
+permalink: :title
