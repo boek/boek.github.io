@@ -1,6 +1,6 @@
 # Site settings
-title: Jeff Boek
-email: jeff@jeffboek.com
+name: "Jeff Boek"
+email: "jeff@jeffboek.com"
 description: "stuff and stuff"
 baseurl: ""
 url: "http://jeffboek.com"
