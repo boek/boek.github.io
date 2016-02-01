@@ -1,9 +1,9 @@
 # Site settings
-name: "Jeff Boek"
+name: "SpiltCocoa"
 email: "jeff@jeffboek.com"
-description: "stuff and stuff"
+description: "chocolate goodness"
 baseurl: ""
-url: "http://jeffboek.com"
+url: "http://spiltcocoa.com"
 twitter_username: jeffboek
 github_username:  boek
 exclude: [vendor, README.md, CNAME, Gemfile]
