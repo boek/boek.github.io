@@ -8,8 +8,8 @@ permalink:	/blog/:title
 title:            'Spilt Cocoa'
 tagline:          'blog'
 description:      'My personal blog.'
-url:              http://spiltcocoa.com
-baseurl:          
+url:              'http://spiltcocoa.com'
+baseurl:          ''
 # commentsystem:    google
 # disqus:           example
 
