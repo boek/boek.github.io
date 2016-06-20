@@ -136,6 +136,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (>= 28)
   html-proofer (>= 1.4.0)
+  jekyll-paginate
 
 BUNDLED WITH
    1.12.5
