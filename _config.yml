@@ -2,7 +2,7 @@
 markdown:	kramdown
 gems: [jekyll-paginate]
 # Permalinks
-permalink:	/blog/:title
+permalink: :title
 
 # Setup
 title:            'Spilt Cocoa'
@@ -56,4 +56,4 @@ google_analytics:
 # Default Theme Color for Chrome on Android Lollipop (Use RGB ColorCode without `#`, e.g.: `db5945`)
 theme_color:       7E9576
 
-exclude: ['vendor/gems']
+exclude: [vendor, README.md, CNAME, Gemfile, Gemfile.lock]
