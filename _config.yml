@@ -1,14 +1,58 @@
-# Site settings
-name: "Spilt Cocoa"
-email: "jeff@jeffboek.com"
-description: "nibs and stuff"
-baseurl: ""
-url: "http://spiltcocoa.com"
-twitter_username: jeffboek
-github_username:  boek
-exclude: [vendor, README.md, CNAME, Gemfile]
+# Dependencies
+markdown:	kramdown
+# Permalinks
+permalink:	/blog/:title
 
-# Build settings
-markdown: redcarpet
-highlighter: pygments
-permalink: :title
+# Setup
+title:            'Spilt Cocoa'
+tagline:          'blog'
+description:      'My personal blog.'
+url:              http://spiltcocoa.com
+baseurl:          
+# commentsystem:    google
+# disqus:           example
+
+author:
+  name:           Jeff Boek
+  url:            https://twitter.com/jeffboek
+
+paginate:         5
+
+# Custom vars
+icon:             /assets/images/icon.png
+cover:            /assets/images/cover.jpg
+
+social:
+  - icon:         twitter
+    url:          https://twitter.com/jeffboek
+    desc:         Follow me on twitter
+
+  - icon:         github
+    url:          https://github.com/boek
+    desc:         Fork me on github
+
+  - icon:         feed
+    url:          http://spiltcocoa.com/atom.xml
+    desc:         Subscribe to my feed
+
+menu:
+  - title:        Home
+    url:          /
+
+  - title:        About
+    url:          /about
+
+copyright:
+  author:         Jeff Boek
+  url:            http://spiltcocoa.com
+  type_url:       http://creativecommons.org/licenses/by-nc/2.5
+
+parallax:         false
+
+# Google Analytics (add the UA Code, e.g.: UA-xxxxxxxx-1)
+google_analytics:  
+
+# Default Theme Color for Chrome on Android Lollipop (Use RGB ColorCode without `#`, e.g.: `db5945`)
+theme_color:       7E9576
+
+exclude: ['vendor/gems']
