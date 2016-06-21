@@ -35,8 +35,8 @@ footer {
 }
 
 p {
-	margin-top: 10px;
-	margin-bottom: 10px;
+	margin-top: 30px;
+	margin-bottom: 30px;
 	color: #515151;
 }
 
@@ -540,4 +540,10 @@ pre code {
 .footnotes {
 	margin-top: 60px;
 	border-top: 1px solid #EEE;
+}
+
+.center-image {
+  text-align: center;
+  margin: auto;
+  margin: 30px;
 }
