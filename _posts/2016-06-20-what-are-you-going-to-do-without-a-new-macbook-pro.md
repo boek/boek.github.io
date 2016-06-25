@@ -3,7 +3,7 @@ image:
   url: 'assets/images/02/cover.png'
 layout: 'post'
 title:  'What Are You Going To Do Without A New MacBook Pro?'
-quote: 'Maybe buy an iPad..'
+juote: 'Maybe buy an iPad..'
 ---
 
 A friend asked me this last week when we were discussing WWDC rumors. "Besides flipping tables? Maybe buy an iPad..".
@@ -12,7 +12,9 @@ I've been carrying around a laptop since 2003 when I got this.
 
 ![12" PowerBook](assets/images/02/powerbook.png){: .center-image }
 
-So I made the decision a few weeks ago to keep my work laptop at work. I was hoping to replace it at home with a brand new FN-row missing MacBook Pro that was rumored to be released this past week. In hindsight it makes a lot of sense why they wouldn't release it now. But I wasn't sure what I would do. What I did know was I was not going to drop $2,000 in this situation.
+So I made the decision a few weeks ago to keep my work laptop at work. I was hoping to replace it at home with some new hardware rumored to be released this past week. In hindsight it makes a lot of sense why they wouldn't release it now. But I wasn't sure what I would do.
+
+What I did know was I was not going to drop $2,000 in this situation.
 
 ![MacRumors Buyers Guide](assets/images/02/macrumors.png)
 
